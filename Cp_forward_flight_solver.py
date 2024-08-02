@@ -307,6 +307,8 @@ print('Ct:', Ct)
 # plt.ylabel('Ct')
 # plt.title('Ct vs mu')
 
+print("test update: successful")
+
 
 
 
